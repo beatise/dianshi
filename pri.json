@@ -1,6 +1,10 @@
 {
   "urls": [
     {
+      "url": "http://fty.xxooo.cf/tv",
+      "name": "🚀饭太硬线路2"
+    },
+    {
       "url": "http://www.饭太硬.com/tv",
       "name": "🚀饭太硬线路"
     },
@@ -27,10 +31,6 @@
     {
       "url": "http://ok321.top/tv",
       "name": "🚀ok"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/9918.json",
-      "name": "🚀三线路"
     }
   ]
 }
